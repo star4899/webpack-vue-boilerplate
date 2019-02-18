@@ -1,6 +1,6 @@
 <template>
 	<div id="wrap">
-		<h1>Hello World</h1>
+		<h1>welcome to skydown vue boilerplate</h1>
 	</div>
 </template>
 <script>
