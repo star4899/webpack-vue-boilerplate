@@ -41,7 +41,7 @@
   },
   "scripts": {
     "dev": "webpack-dev-server --mode development --progress --open",
-    "build": "webpack --mode production --progress"
+    "build": "rimraf dist && webpack --mode production --progress"
   },
   "author": "skydown (star4899@naver.com)",
   "license": "MIT"
